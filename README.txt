@@ -10,7 +10,4 @@ How to preview:
 2. Open index.html in a browser, or use a local web preview/hosting service.
 3. The contact form prepares an email in the visitor's default email app; it does not send automatically.
 
-Contact email configured:
-eliteninja12347@gmail.com
-
 Project preview cards are concept examples. Replace them with your real work when ready.
